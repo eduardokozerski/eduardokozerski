@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Engineering Undergraduate<br><br>- Starting in Web Development<br><br>- Future Full Stack Developer<br><br>- I currently work as a graphic designer, but I'm incessantly studying to be a developer<br><br>- Every day studying more and more and learning new technologies<br><br>- Looking for an internship</p>
+<p align="left">- Software Engineering Undergraduate<br><br>- Starting in Web Development<br><br>- Future Full Stack Developer<br><br>- I currently work as a graphic designer, but I'm incessantly studying to be a developer<br><br>- Every day studying more and more to learn new technologies<br><br>- Looking for an internship</p>
 
 ###
 
