@@ -1,12 +1,12 @@
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="left">- Software Engineering Undergraduate<br><br>- Starting in Web Development<br><br>- Future Full Stack Developer<br><br>- I currently work as a graphic designer, but I'm incessantly studying to be a developer<br><br>- Every day studying more and more to learn new technologies<br><br>- Looking for an internship</p>
+<p align="left">- Software Engineering Undergraduate<br><br>- Starting in Web Development<br><br>- I currently work as a graphic designer, but I'm incessantly studying to be a developer<br><br>- Every day studying more and more and learning new technologies</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h1 align="left">Techs</h1>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h1 align="left">Stats</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardokozerski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
