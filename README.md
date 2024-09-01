@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Web Developer<br><br>- Graphic Designer<br><br>- Software Engineering Undergraduate</p>
+<p align="left">👨‍💻 Web Developer<br><br>✍ Graphic Designer<br><br>‍🎓 Software Engineering Undergraduate</p>
 
 ###
 
