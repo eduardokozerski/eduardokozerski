@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Web Developer<br><br>- Graphic Designer<br><br>- Software Engineering Undergraduate</p>
+<p align="left">- Web Developer<br><br>-UX/UI Designer<br><br>- Software Engineering Undergraduate</p>
 
 ###
 
